@@ -1,3 +1,2 @@
 # drunken-raccoon
-respostas dos desafios da universidade
-_answers to university's challenges_
+university challenges' answers _(respostas dos desafios da universidade)_
