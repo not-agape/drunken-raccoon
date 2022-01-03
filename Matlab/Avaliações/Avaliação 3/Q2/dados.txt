@@ -1,0 +1,15 @@
+Nome..........: Jose da Silva
+Sexo..........: masculino
+Altura........: 1.77m
+Peso Ideal....: 70.68kgs
+
+Nome..........: Maria dos Santos
+Sexo..........: feminino
+Altura........: 1.62m
+Peso Ideal....: 55.90kgs
+
+Nome..........: Pedro Moreira
+Sexo..........: masculino
+Altura........: 1.71m
+Peso Ideal....: 66.32kgs
+
